@@ -1,5 +1,0 @@
-c:\Users\asmod\Documents\Visual Studio 2015\Projects\AsmodatCryptoExchange\AsmodatCryptoExchange\bin\Debug\AsmodatCryptoExchange.dll
-c:\Users\asmod\Documents\Visual Studio 2015\Projects\AsmodatCryptoExchange\AsmodatCryptoExchange\bin\Debug\AsmodatCryptoExchange.pdb
-c:\Users\asmod\Documents\Visual Studio 2015\Projects\AsmodatCryptoExchange\AsmodatCryptoExchange\obj\Debug\AsmodatCryptoExchange.csprojResolveAssemblyReference.cache
-c:\Users\asmod\Documents\Visual Studio 2015\Projects\AsmodatCryptoExchange\AsmodatCryptoExchange\obj\Debug\AsmodatCryptoExchange.dll
-c:\Users\asmod\Documents\Visual Studio 2015\Projects\AsmodatCryptoExchange\AsmodatCryptoExchange\obj\Debug\AsmodatCryptoExchange.pdb
