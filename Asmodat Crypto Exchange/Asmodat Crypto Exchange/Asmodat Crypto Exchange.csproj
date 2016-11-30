@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A1DA700-BC2F-4AE0-905A-4F94A1596995}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AsmodatCryptoExchange</RootNamespace>
+    <AssemblyName>AsmodatCryptoExchange</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Asmodat">
+      <HintPath>..\..\Asmodat\Asmodat\bin\Debug\Asmodat.dll</HintPath>
+    </Reference>
+    <Reference Include="BlockchainAPI, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Asmodat Web Exchange\packages\BlockchainAPI.1.0.3.0\lib\net40\BlockchainAPI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Jayrock.Json, Version=0.9.16530.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\jayrock-json.0.9.16530.1\lib\net40\Jayrock.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <HintPath>packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PayPal, Version=1.5.0.0, Culture=neutral, PublicKeyToken=5b4afc1ccaef40fb, processorArchitecture=MSIL">
+      <HintPath>packages\PayPal.1.5.0\lib\net451\PayPal.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\RestSharp.105.2.3\lib\net46\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bitfinex\API\ApiProperties.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetWithdrawl.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetTransfer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetMarginInfos.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetCloseSwap.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetTotalActiveSwaps.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetActiveSwaps.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetActiveOffers.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetOfferStatus.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetCancelOffer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetNewOffer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetPastTrades.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetMovements.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetClaimPosition.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetActivePositions.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetActiveOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetBalanceHistory.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestActiveOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestMarginInfos.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestCloseSwap.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestWithdrawl.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestTransfer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestTotalActiveSwaps.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestActiveSwaps.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestActiveCredits.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestActiveOffers.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestOfferStatus.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestCancelOffer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestNewOffer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestPastTrades.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestMovements.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestClaimPosition.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestCancelAllActiveOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestCancelMultipleOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestActivePositions.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestBalanceHistory.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestOrderStatus.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestCancelOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestMultipleNewOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestReplaceOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestNewOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestNewDeposit.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjCancelOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjClaimPosition.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjBalanceHistory.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjWithdrawl.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjTransfer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjMarginLimits.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjTotalActiveSwaps.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjOfferStatus.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjNewOffer.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjPastTrades.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjMovements.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjOrderStatus.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjNewOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjNewDeposit.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetCancelAllActiveOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetCancelMultipleOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetOrderStatus.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetMultipleNewOrders.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetCancelOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetReplaceOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetNewOrder.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetNewDeposit.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjMarginInfos.cs" />
+    <Compile Include="Bitfinex\API\ObjResponse.cs" />
+    <Compile Include="Bitfinex\API\ObjResult.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestLends.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestAccountInfos.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestSymbolsDetails.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestSymbols.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestTrades.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestOrderbook.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestLendbook.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\Lendbook\ObjLendbookBid.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\Lendbook\ObjLendbookAsk.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\Lendbook\ObjLendbook.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjAccountInfo.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\ObjLends.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\ObjSymbolsDetails.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjAccountInfos.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\ObjTrades.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\ObjStats.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\ObjTicker.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestStats.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Requests\ObjRequestTicker.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\Orderbook\ObjOrderbookBid.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\Orderbook\ObjOrderbookAsk.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\Objects\Results\Orderbook\ObjOrderbook.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetOrderbook.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetLendbook.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetAccountInfos.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetStats.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetLends.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetSymbolsDetails.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetSymbols.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetTrades.cs" />
+    <Compile Include="Bitfinex\API\Unauthenticated Calls\GetTicker.cs" />
+    <Compile Include="Bitfinex\RestRequest.cs" />
+    <Compile Include="Bitfinex\Request.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Balance\AccountBalance.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Balance\Balance.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Results\ObjWalletBalances.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\Objects\Requests\ObjRequestWalletBalances.cs" />
+    <Compile Include="Bitfinex\API\ObjRequest.cs" />
+    <Compile Include="Bitfinex\Properties.cs" />
+    <Compile Include="Bitfinex\BitfinexManager.cs" />
+    <Compile Include="Bitfinex\API\Authenticated Calls\GetWalletBalance.cs" />
+    <Compile Include="Blockchain\Requests\API\ObjAddressConsolidated.cs" />
+    <Compile Include="Blockchain\Requests\API\ObjAddressUnarchived.cs" />
+    <Compile Include="Blockchain\Requests\API\ObjAddressArchived.cs" />
+    <Compile Include="Blockchain\Requests\API\ObjAddressGenerated.cs" />
+    <Compile Include="Blockchain\Requests\API\ObjOutgoingPayment.cs" />
+    <Compile Include="Blockchain\Requests\API\ObjListingAdresses.cs" />
+    <Compile Include="Blockchain\Requests\API\CommonErrorResponses.cs" />
+    <Compile Include="Blockchain\Requests\API\ObjWalletBalance.cs" />
+    <Compile Include="Blockchain\Requests\ConsolidateAddress.cs" />
+    <Compile Include="Blockchain\Requests\UnarchiveAddress.cs" />
+    <Compile Include="Blockchain\Requests\ArchiveAddress.cs" />
+    <Compile Include="Blockchain\Requests\GenerateNewAddress.cs" />
+    <Compile Include="Blockchain\Requests\GetAdressBalance.cs" />
+    <Compile Include="Blockchain\Requests\ListingAdresses.cs" />
+    <Compile Include="Blockchain\Requests\SendManyTransactions.cs" />
+    <Compile Include="Blockchain\Requests\Request.cs" />
+    <Compile Include="Blockchain\Requests\OutgoingPayment.cs" />
+    <Compile Include="Blockchain\Requests\FetchWalletBalance.cs" />
+    <Compile Include="Blockchain\Properties.cs" />
+    <Compile Include="Blockchain\BlockchainManager.cs" />
+    <Compile Include="Cryptocurrency\Bitcoin\Validate.cs" />
+    <Compile Include="Cryptocurrency\Litecoin\Validate.cs" />
+    <Compile Include="Kraken\API\KrakenOrder.cs" />
+    <Compile Include="Kraken\API\Private User Data\Get Orders\OrderDescriptionInfo.cs" />
+    <Compile Include="Kraken\API\Private User Data\Get Orders\OrderInfo.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetBalance.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetTradeVolume.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetQueryLedgers.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetLedgers.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetOpenPositions.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetTradesHistory.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetQueryOrders.cs" />
+    <Compile Include="Kraken\API\Private User Data\Get Orders\GetClosedOrders.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetOpenOrders.cs" />
+    <Compile Include="Kraken\API\Private User Trading\CancelOrder.cs" />
+    <Compile Include="Kraken\API\Private User Trading\Add Order\TransactionOrder.cs" />
+    <Compile Include="Kraken\API\Private User Trading\Add Order\AddOrder.cs" />
+    <Compile Include="Kraken\API\Private User Trading\Properties.cs" />
+    <Compile Include="Kraken\API\Private User Funding\GetWithdrawCancel.cs" />
+    <Compile Include="Kraken\API\Private User Funding\GetWithdrawStatus.cs" />
+    <Compile Include="Kraken\API\Private User Funding\GetWithdraw.cs" />
+    <Compile Include="Kraken\API\Private User Funding\GetWithdrawlInfo.cs" />
+    <Compile Include="Kraken\API\Private User Funding\GetDepositStatus.cs" />
+    <Compile Include="Kraken\API\Private User Funding\GetDepositMethods.cs" />
+    <Compile Include="Kraken\API\ApiProperties.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Asset Pairs\AssetPair.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Asset Pairs\GetAssetPairs.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Asset\AssetSEx.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Asset\Asset.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Asset\ObjAssetResult.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get OHLC\DataPoints.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get OHLC\OHLCEntry.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get OHLC\OHLC.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Tickers\TickerEx.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Tickers\Ticker.cs" />
+    <Compile Include="Kraken\API\Public Market Data\GetSpread.cs" />
+    <Compile Include="Kraken\API\Private User Data\GetTradeBalance.cs" />
+    <Compile Include="Kraken\API\Public Market Data\GetTrades.cs" />
+    <Compile Include="Kraken\API\Public Market Data\GetDepth.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get OHLC\GetOHLC.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Tickers\GetTickers.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Asset\GetAssets.cs" />
+    <Compile Include="Kraken\API\Public Market Data\Get Asset Pairs\AssetPairsEx.cs" />
+    <Compile Include="Kraken\API\ObjResult.cs" />
+    <Compile Include="Kraken\API\Query.cs" />
+    <Compile Include="Kraken\API\Public Market Data\GetServerTime.cs" />
+    <Compile Include="Kraken\Archive\Archive.cs" />
+    <Compile Include="Kraken\Archive\ArchiveOrdersJson.cs" />
+    <Compile Include="Kraken\Archive\ArchiveEntriesJson.cs" />
+    <Compile Include="Kraken\Archive\Properties.cs" />
+    <Compile Include="Kraken\Kraken\Order.cs" />
+    <Compile Include="Kraken\Kraken\AssetTouple.cs" />
+    <Compile Include="Kraken\Kraken\Asset.cs" />
+    <Compile Include="Kraken\Kraken\Currency.cs" />
+    <Compile Include="Kraken\Kraken\Cryptocurrency.cs" />
+    <Compile Include="Kraken\Properties.cs" />
+    <Compile Include="Kraken\KrakenManages.cs" />
+    <Compile Include="Kraken\Legacy\Broker.cs" />
+    <Compile Include="Kraken\Legacy\CancelOrderResult.cs" />
+    <Compile Include="Kraken\Legacy\GetOrdersResult.cs" />
+    <Compile Include="Kraken\Legacy\KrakenClient.cs" />
+    <Compile Include="Kraken\Legacy\KrakenOrder.cs" />
+    <Compile Include="Kraken\Legacy\PlaceOrderResult.cs" />
+    <Compile Include="Kraken\Legacy\RefreshOrderResult.cs" />
+    <Compile Include="Kraken\Timers\AssetInfo.cs" />
+    <Compile Include="Kraken\Timers\AssetPairs\Min Max Amount.cs" />
+    <Compile Include="Kraken\Timers\AssetPairs\Tradable.cs" />
+    <Compile Include="Kraken\Timers\TradeVolume.cs" />
+    <Compile Include="Kraken\Timers\Balance.cs" />
+    <Compile Include="Kraken\Timers\ServerTime.cs" />
+    <Compile Include="Kraken\Timers\Tickers.cs" />
+    <Compile Include="Kraken\Timers\AssetPairs\AssetPairs.cs" />
+    <Compile Include="PayPal\API\ApiProperties.cs" />
+    <Compile Include="PayPal\RequestPayment.cs" />
+    <Compile Include="PayPal\Properties.cs" />
+    <Compile Include="PayPal\PayPalManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Kraken\API\PublicQueries\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

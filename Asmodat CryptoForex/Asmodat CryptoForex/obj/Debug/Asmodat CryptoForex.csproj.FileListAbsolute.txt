@@ -1,0 +1,175 @@
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat CryptoForex.exe.config
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat CryptoForex.exe
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat CryptoForex.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.csprojResolveAssemblyReference.cache
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.Form1.resources
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.Properties.Resources.resources
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.csproj.GenerateResource.Cache
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.exe
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.YouTube.v3.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Newtonsoft.Json.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Gmail.v1.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.CV.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Speech.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\NAudio.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Core.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Jayrock.Json.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\PayPal.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\RestSharp.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Zlib.Portable.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.Util.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\log4net.dll
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AsmodatCryptoExchange.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.YouTube.v3.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.YouTube.v3.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Newtonsoft.Json.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Gmail.v1.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Gmail.v1.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.CV.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\NAudio.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Core.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Core.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\PayPal.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\RestSharp.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Zlib.Portable.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.Util.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\log4net.xml
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.csproj.Asmodat CryptoForex.exe.config
+c:\users\asmod\documents\visual studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.KrakenLoginControl.resources
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.Controls.KrakenEntriesControl.resources
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.KrakenTradeControl.resources
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.KrakenOrderInfoControl.resources
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Ionic.Zip.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Imaging.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Interop.Shell32.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Math.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Ionic.Zip.pdb
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Ionic.Zip.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Imaging.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Math.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.xml
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmod\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat CryptoForex.exe.config
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.exe
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.csprojResolveAssemblyReference.cache
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.csproj.Asmodat CryptoForex.exe.config
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.Controls.KrakenEntriesControl.resources
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.KrakenOrderInfoControl.resources
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.KrakenLoginControl.resources
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.Form1.resources
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.KrakenTradeControl.resources
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat_CryptoForex.Properties.Resources.resources
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\obj\Debug\Asmodat CryptoForex.csproj.GenerateResource.Cache
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat CryptoForex.exe
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat CryptoForex.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AsmodatCryptoExchange.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.CV.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Ionic.Zip.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Imaging.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\EntityFramework.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Interop.Shell32.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Speech.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\NAudio.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Core.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Jayrock.Json.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\PayPal.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\RestSharp.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Zlib.Portable.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.Util.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Math.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\log4net.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Asmodat.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AsmodatCryptoExchange.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.CV.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Ionic.Zip.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Ionic.Zip.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Imaging.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\EntityFramework.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\NAudio.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Core.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.Core.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\PayPal.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\RestSharp.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Zlib.Portable.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\Emgu.Util.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Math.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\AForge.Video.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\log4net.xml
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\Documents\Visual Studio 2015\Projects\Asmodat CryptoForex\Asmodat CryptoForex\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll

@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Text;
+using System.Threading.Tasks;
+
+using Asmodat.BitfinexV1.API;
+using Newtonsoft.Json;
+
+using Asmodat.Abbreviate;
+using Asmodat.Debugging;
+using System.IO;
+
+namespace Asmodat.BitfinexV1
+{
+    public partial class BitfinexManager
+    {
+
+        // TODO: NOT TESTED
+
+
+        /// <summary>
+        /// Cancel an offer.
+        /// </summary>
+        /// <param name="offer_id">The offer ID given by `/offer/new`.</param>
+        /// <returns>Result of /offer/status for the cancelled offer.</returns>
+        public ObjOfferStatus GetCancelOffer(int offer_id)
+        {
+
+            ObjRequestCancelOffer variable = new ObjRequestCancelOffer(Nonce, offer_id);
+            string response = this.Request(variable, "POST");
+
+            ObjOfferStatus result = JsonConvert.DeserializeObject<ObjOfferStatus>(response);
+            return result;
+        }
+
+       
+
+    }
+}
