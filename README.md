@@ -12,7 +12,7 @@ In current stage you can:
 
 Screenshots: http://imgur.com/a/SMdL4
 
-![alt tag](http://i.imgur.com/j4TSvY0m.png)<br> 
-![alt tag](http://i.imgur.com/hnrdp3Rm.png)<br> 
-![alt tag](http://i.imgur.com/FP16GoAm.png)<br> 
-![alt tag](http://i.imgur.com/mHibNTbm.png)<br> 
+![alt tag](http://i.imgur.com/j4TSvY0.png)<br> 
+![alt tag](http://i.imgur.com/hnrdp3R.png)<br> 
+![alt tag](http://i.imgur.com/FP16GoA.png)<br> 
+![alt tag](http://i.imgur.com/mHibNTb.png)<br> 
