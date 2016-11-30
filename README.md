@@ -9,3 +9,10 @@ In current stage you can:
 -automatically download historical data.<br>
 -view historical data with charting control for all available currency pair.<br>
 -create buy, sell, close orders
+
+Screenshots: http://imgur.com/a/SMdL4
+
+![alt tag](http://i.imgur.com/j4TSvY0m.png)<br> 
+![alt tag](http://i.imgur.com/hnrdp3Rm.png)<br> 
+![alt tag](http://i.imgur.com/FP16GoAm.png)<br> 
+![alt tag](http://i.imgur.com/mHibNTbm.png)<br> 
