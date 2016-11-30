@@ -1,4 +1,4 @@
-# Asmodat Crypto Forex is free, open source treading platform based on Kraken.com - CryptoCoin exchange API.
+# Asmodat Crypto Forex is free, open source treading software based on Kraken.com - CryptoCoin exchange API.
 
 Exchange: https://www.kraken.com/
 
