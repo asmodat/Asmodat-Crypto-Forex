@@ -7,7 +7,7 @@ In current stage you can:
 
 -login to Kraken API using your Private Key.<br>
 -automatically download historical data.<br>
--view historical data with charting control for all available currency pair.<br>
+-view historical data with charting control for all available quotes.<br>
 -create buy, sell, close orders
 
 Screenshots: http://imgur.com/a/SMdL4
